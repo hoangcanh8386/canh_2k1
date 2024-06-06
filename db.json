@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "903b",
+      "name": "Bò khô",
+      "price": "123456",
+      "desc": "Ngon"
+    },
+    {
+      "id": "51ed",
+      "name": "Hoàng Cảnh",
+      "price": "1",
+      "desc": "Được"
+    },
+    {
+      "id": "7ce4",
+      "name": "ykhkhg",
+      "price": "777",
+      "desc": "eee"
+    },
+    {
+      "id": "c18f",
+      "name": "ykhkhg",
+      "price": "777",
+      "desc": "Ngontttttttttt"
+    },
+    {
+      "id": "9029",
+      "name": "eee",
+      "price": "123456",
+      "desc": "sss"
+    },
+    {
+      "id": "85e2",
+      "name": "ssss",
+      "price": "1234568888888888",
+      "desc": "ukyuk"
+    },
+    {
+      "id": "3523",
+      "name": "Gà quay",
+      "price": "125000",
+      "desc": "Ngon lắm"
+    },
+    {
+      "id": "a700",
+      "name": "sssssss",
+      "price": "555",
+      "desc": "yyyyyyyyy"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": 123456
+    }
+  ]
+}
